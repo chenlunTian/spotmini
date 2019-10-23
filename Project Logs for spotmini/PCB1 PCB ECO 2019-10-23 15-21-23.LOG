@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NSRST Pin=SWD-1
+Removed Pin From Net: NetName=SWCLK Pin=SWD-2
+Removed Pin From Net: NetName=SWO Pin=SWD-3
+Removed Pin From Net: NetName=SWDIO Pin=SWD-4
+Removed Pin From Net: NetName=TX Pin=SWD-5
+Removed Pin From Net: NetName=RX Pin=SWD-6
+Removed Pin From Net: NetName=J3V3 Pin=SWD-7
+Removed Pin From Net: NetName=GND Pin=SWD-8
+Added Pin To Net: NetName=J3V3 Pin=SWD-1
+Added Pin To Net: NetName=GND Pin=SWD-2
+Added Pin To Net: NetName=NSRST Pin=SWD-3
+Added Pin To Net: NetName=SWCLK Pin=SWD-4
+Added Pin To Net: NetName=SWO Pin=SWD-5
+Added Pin To Net: NetName=SWDIO Pin=SWD-6
+Added Pin To Net: NetName=TX Pin=SWD-7
+Added Pin To Net: NetName=RX Pin=SWD-8
+Added Room: Name=Sheet1
