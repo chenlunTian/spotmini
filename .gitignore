@@ -1,0 +1,31 @@
+# keil project
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep           
+JLinkLog.txt
+*.iex
+*.htm
+*.sct
+*.map
+*.bak 
+*.ddk 
+*.edk 
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+
+# Altium File
+*History
+*Project *
+*__Previews
+
