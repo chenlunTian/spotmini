@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=CLK1 NewDesignator=CLK
-Change Component Designator: OldDesignator=DIO1 NewDesignator=DIO
-Change Component Designator: OldDesignator=SWD? NewDesignator=SWD
-Change Net Name : Old Net Name=NetCLK1_1 New Net Name=NetCLK_1
-Change Net Name : Old Net Name=NetDIO1_1 New Net Name=NetDIO_1
